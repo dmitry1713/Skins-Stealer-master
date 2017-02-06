@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        
+    <!-- Toolbar -->
+    <dimen name="toolbar_elevation">4dp</dimen>
+    
+    <!-- preferenceFragment -->
+    <dimen name="preference_fragment_padding_bottom">0dp</dimen>
+    <dimen name="preference_fragment_padding_side">16dp</dimen>
+    <integer name="preference_fragment_scrollbarStyle">0x02000000</integer>
+    
+    <!-- Drawer -->
+    <dimen name="drawer_width">304dp</dimen>
+
+    <!--Image-->
+    <dimen name="image_icon_size">100dp</dimen>
+
+    <!--Margin elements-->
+    <dimen name="margin_top">2dp</dimen>
+    <dimen name="margin_down">2dp</dimen>
+    <dimen name="margin_right">2dp</dimen>
+    <dimen name="margin_left">2dp</dimen>
+
+    <dimen name="margin_layout">5dp</dimen>
+
+    <dimen name="margin_title_left">14dp</dimen>
+    <dimen name="margin_title_bottom">8dp</dimen>
+
+    <dimen name="margin_description_bottom">4dp</dimen>
+
+    <dimen name="text_padding">8dp</dimen>
+    <dimen name="text_margin">8dp</dimen>
+    <dimen name="text_margin_mini">1dp</dimen>
+    <dimen name="layout_padding">10dp</dimen>
+    <dimen name="layout_padding_menu">8dp</dimen>
+    <dimen name="layout_padding_mini">4dp</dimen>
+
+    <!--Text-->
+    <dimen name="text_size_menu">16sp</dimen>
+    <dimen name="description_text_size">14sp</dimen>
+    <dimen name="seed_text_size">18sp</dimen>
+    <dimen name="button_text_size">14sp</dimen>
+    <dimen name="text_six_card_margin">6dp</dimen>
+
+    <!--Floating Button-->
+    <dimen name="fab_margin">8dp</dimen>
+
+    <!--CardView-->
+    <dimen name="card_corner_radius">2dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+
+    <!--Image-->
+    <dimen name="image_one_padding">6dp</dimen>
+    <dimen name="loading_image_padding">30dp</dimen>
+
+    <!--Mods-->
+    <dimen name="card_view_mods_height">95dp</dimen>
+    <dimen name="image_view_mods_height">140dp</dimen>
+
+    <!--Mods-->
+    <dimen name="mods_text_margin_bottom">4dp</dimen>
+    <dimen name="mods_text_margin_top">10dp</dimen>
+    <dimen name="mods_margin_description_right">4dp</dimen>
+    <dimen name="mods_margin_description_left">6dp</dimen>
+    <dimen name="mods_margin_title_left">6dp</dimen>
+    <dimen name="mods_margin_title_bottom">4dp</dimen>
+    <dimen name="mods_margin_title_top">4dp</dimen>
+    <dimen name="mods_margin_image_view">6dp</dimen>
+
+    <!--Menu-->
+    <dimen name="menu_height">90dp</dimen>
+    <dimen name="menu_title_text_size">18sp</dimen>
+    <dimen name="menu_title_text_margin">12dp</dimen>
+    <dimen name="menu_title_text_margin_left">12dp</dimen>
+    <dimen name="menu_button_text_size">18sp</dimen>
+    <dimen name="menu_image_padding">10dp</dimen>
+    <dimen name="menu_image_right_margin">6dp</dimen>
+
+    <!--Main CardView-->
+    <dimen name="text_title_size">16sp</dimen>
+    <dimen name="text_description_size">13sp</dimen>
+    <dimen name="text_button_size">13sp</dimen>
+
+    <dimen name="margin_share_right">10dp</dimen>
+
+    <!--Native Ads-->
+    <dimen name="native_ads_size">132dp</dimen>
+    <dimen name="native_ads_margin">2dp</dimen>
+    <dimen name="card_height">150dp</dimen>
+
+
+</resources>

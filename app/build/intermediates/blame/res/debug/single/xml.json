@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\activity_settings.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\xml\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\activity_settings.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\xml\\activity_settings.xml"
+    }
+]

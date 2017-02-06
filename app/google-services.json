@@ -1,0 +1,329 @@
+{
+  "project_info": {
+    "project_number": "400986497065",
+    "firebase_url": "https://master-for-minecraft.firebaseio.com",
+    "project_id": "master-for-minecraft",
+    "storage_bucket": "master-for-minecraft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400986497065:android:ef8b5e207522c277",
+        "android_client_info": {
+          "package_name": "com.appblockgames.freecraftexploration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400986497065-mpo1i8sn9mnnua2gi37rdno77gv2af7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appblockgames.freecraftexploration",
+            "certificate_hash": "87244224865AC3055B75B123EF8445E501ECF57C"
+          }
+        },
+        {
+          "client_id": "400986497065-i7c0qc8s0vuj602hbg3u7g18pe25qba1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqLAXSInGV7-SZc7UzHkPdT2zLW-PTFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400986497065:android:a15bc58a646f91b1",
+        "android_client_info": {
+          "package_name": "com.craftblockstudio.skinsforminecraftpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400986497065-i7c0qc8s0vuj602hbg3u7g18pe25qba1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqLAXSInGV7-SZc7UzHkPdT2zLW-PTFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400986497065:android:ca8f145daab8b81e",
+        "android_client_info": {
+          "package_name": "com.craftblockstudio.modsforminecraftpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400986497065-i7c0qc8s0vuj602hbg3u7g18pe25qba1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqLAXSInGV7-SZc7UzHkPdT2zLW-PTFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400986497065:android:bbb7da65dc9b874c",
+        "android_client_info": {
+          "package_name": "com.craftblockstudio.mapsforminecraftpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400986497065-i7c0qc8s0vuj602hbg3u7g18pe25qba1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqLAXSInGV7-SZc7UzHkPdT2zLW-PTFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400986497065:android:ac370c5ac41048bc",
+        "android_client_info": {
+          "package_name": "com.appscreat.seedsforminecraftpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400986497065-i7c0qc8s0vuj602hbg3u7g18pe25qba1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqLAXSInGV7-SZc7UzHkPdT2zLW-PTFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400986497065:android:435fa4c4fd0da9e3",
+        "android_client_info": {
+          "package_name": "com.appscreat.texturesforminecraftpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400986497065-i7c0qc8s0vuj602hbg3u7g18pe25qba1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqLAXSInGV7-SZc7UzHkPdT2zLW-PTFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400986497065:android:484a4b28d8d2dc26",
+        "android_client_info": {
+          "package_name": "com.appscreat.serversforminecraftpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400986497065-i7c0qc8s0vuj602hbg3u7g18pe25qba1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqLAXSInGV7-SZc7UzHkPdT2zLW-PTFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400986497065:android:6129b0d73154b089",
+        "android_client_info": {
+          "package_name": "com.appscreat.skinsstealerforminecraftpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400986497065-i7c0qc8s0vuj602hbg3u7g18pe25qba1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqLAXSInGV7-SZc7UzHkPdT2zLW-PTFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400986497065:android:068b409b8d8f91d1",
+        "android_client_info": {
+          "package_name": "com.appscreat.skinsviewerforminecraftpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400986497065-i7c0qc8s0vuj602hbg3u7g18pe25qba1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqLAXSInGV7-SZc7UzHkPdT2zLW-PTFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400986497065:android:856ba2c4dea59cac",
+        "android_client_info": {
+          "package_name": "com.appscreat.skinscreatorforminecraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400986497065-i7c0qc8s0vuj602hbg3u7g18pe25qba1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqLAXSInGV7-SZc7UzHkPdT2zLW-PTFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- offerwall -->
+    <string name="offerwal_activity">Apps</string>
+    <string name="offer_button_text">Frei</string>
+
+    <!--in-app-->
+
+    <!-- settings -->
+    <string name="settings_general_summary">General information</string>
+    <string name="settings_general">General</string>
+
+    <string name="settings_showmenu_summary">Ja/Nein</string>
+    <string name="settings_showmenu">Zeige Seite im Menü auf Start</string>
+
+    <string name="settings_rssnotify_summary">Informieren Sie sich, wenn neue Artikel sind</string>
+    <string name="settings_rssnotify">Benachrichtigungen</string>
+
+    <string name="settings_other_summary">Andere Informationen</string>
+    <string name="settings_other">Andere</string>
+
+    <string name="settings_aboutus_summary">Informationen über Ihre Bewerbung</string>
+    <string name="settings_aboutus">Etwa</string>
+    <string name="settings_aboutus_header">Etwa</string>
+    <string name="settings_aboutus_version">Version</string>
+    <string name="settings_aboutus_thanks">Gracias por descargar su aplicación</string>
+
+    <string name="settings_rate_summary">Helfen Sie anderen Usern diese Anwendung genießen</string>
+    <string name="settings_rate">Bewerte diese App</string>
+
+    <string name="settings_share_summary">Sagen Sie zu dieser App deinen Freunden</string>
+    <string name="settings_share">Aktie</string>
+
+    <!-- General -->
+    <string name="settings">Einstellungen</string>
+    <string name="loading">Laden…</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="section">Abschnitt</string>
+    <string name="extra">Extra</string>
+    <string name="share">Aktie</string>
+    <string name="share_choise">Teilt es</string>
+    <string name="rate">Rate</string>
+    <string name="back_pressed">Bitte klicken BACK wieder zu verlassen</string>
+
+    <!--  webview  -->
+    <string name="back_webview">Zurück</string>
+    <string name="forward_webview">Vorwärts</string>
+
+    <!--Dialogs-->
+    <string name="download">Herunterladen</string>
+    <string name="open">Öffnen</string>
+    <string name="cancel">Stornieren</string>
+    <string name="install">Installieren</string>
+    <string name="enable">Aktivieren</string>
+
+    <string name="skin_dialog_description">Hautaufbau und Anwendung in Minecraft PE.\n\nÖffnen Sie Minecraft PE?</string>
+
+    <string name="map_dialog_description">Karte heruntergeladen und installiert in Minecraft PE.</string>
+
+    <string name="mod_dialog_description">Importieren Sie Mod in Minecraft PE?</string>
+
+    <string name="result_mod_dialog_title">Mod erfolgreich importiert</string>
+    <string name="result_mod_dialog_description">Öffnen Sie Minecraft PE?</string>
+
+    <string name="blocklauncher_dialog_title">BlockLauncher nicht installiert</string>
+    <string name="blocklauncher_dialog_description">Um die Mod zu installieren, müssen Sie auf Ihrem Gerät BlockLauncher.</string>
+
+    <string name="network_dialog_title">Keine Netzwerk Verbindung</string>
+    <string name="network_dialog_description">Bitte aktivieren Sie das mobile Internet</string>
+
+    <!--Not Translated-->
+
+    <!-- Example -->
+
+    <!-- navigation drawer -->
+
+    <!--Preference-->
+
+    <!--Package Name-->
+    <string name="remove_ads">Anzeigen entfernen</string>
+    <string name="download_file">Download-Datei ..</string>
+    <string name="file_saved">Datei erfolgreich gespeichert</string>
+    <string name="file_saved_dialog">Datei %1$s gespeichert</string>
+    <string name="texture_dialog_description">Beschaffenheit eingestellt zu Minecraft PE.</string>
+    <string name="path">Pfad %1$s</string>
+    <string name="save_to_gallery">In Galerie speichern</string>
+    <string name="save_to_minecraft">Speichern zu Minecraft PE</string>
+    <string name="wallpaper_set_title">Wallpaper Set</string>
+    <string name="wallpaper_set_description">Wallpaper erfolgreich auf dem Desktop Ihres Geräts installiert.</string>
+    <string name="file_not_saved">Filet gespeicherten Notizen</string>
+    <string name="wallpaper_not_set_description">Tapeten nicht auf dem Desktop Ihres Geräts installiert.</string>
+    <string name="wallpaper_not_set_title">Wallpaper nicht gesetzt</string>
+    <string name="add">Hinzufügen</string>
+    <string name="add_to_minecraft">Hinzufügen in MCPE</string>
+    <string name="minecraft_file_not_found">Minecraft PE Anwendungsdateien gefunden</string>
+    <string name="server_dialog_description">"Server hinzugefügt, um die Anwendung Minecraft PE. "</string>
+    <string name="activity_main">Menu</string>
+    <string name="activity_maps">Karte</string>
+    <string name="activity_mods">Modifikationen</string>
+    <string name="activity_seeds">Saat</string>
+    <string name="activity_skin_stealer">Skin Stealer</string>
+    <string name="activity_servers">Servers</string>
+    <string name="activity_skins">Skins</string>
+    <string name="activity_textures">Texturen</string>
+    <string name="activity_wallpaper">Wallpapers</string>
+    <string name="activity_wallpaper_set">Wallpaper Set</string>
+    <string name="skin_not_found">Haut nicht gefunden</string>
+    <string name="excellent">Ausgezeichnet!</string>
+    <string name="rate_us">Bitte bewerten Sie uns!</string>
+    <string name="rate_us_message">Wir schätzen unsere Anwender und jeden Tag versuchen, unsere Anwendung besser zu machen!</string>
+    <string name="thank_feedback">Vielen Dank für Ihr Feedback!</string>
+    <string name="rate_us_on_google">Ihr Feedback ist uns sehr wichtig.\nBitte bewerten Sie unsere Anwendung in Google Play!</string>
+    <string name="next">Nächster</string>
+    <string name="previous">Previous</string>
+    <string name="view">Aussehen</string>
+    <string name="send">Zu senden</string>
+    <string name="send_files">Senden einer Datei</string>
+    <string name="file_name">Name Datei</string>
+    <string name="file_description">Datei Beschreibung</string>
+    <string name="not_email_client">Es gibt keine E-Mail-Clients installiert haben.</string>
+    <string name="send_files_description">Fügen Sie in unserer Anwendung, Ihre Haut die, Karten, Mods, server, Textur!\nWir werden Ihre Dateien in unserer Anwendung zu veröffentlichen.</string>
+    <string name="suggest_description">Schlagen Sie Ihre Mods, Maps, Skins, Textur, und wir werden sie in unserer Anwendung veröffentlichen!</string>
+    <string name="suggest_title">Schlagen Sie Ihre</string>
+    <string name="suggest_mail_description">Werfen Sie Ihre Veranstaltungen, Karte oder Hautstruktur .</string>
+    <string name="suggest">Vorschlagen</string>
+    <string name="fragment_skins_animals">Tiere</string>
+    <string name="fragment_skins_anime">Anime</string>
+    <string name="fragment_skins_celebrity">Prominente</string>
+    <string name="fragment_skins_boys">Jungen</string>
+    <string name="fragment_skins_girls">Mädchen</string>
+    <string name="fragment_skins_heroes">Helden</string>
+    <string name="fragment_skins_military">Militär</string>
+    <string name="fragment_skins_monsters">Monsters</string>
+    <string name="fragment_skins_other">Andere</string>
+    <string name="fragment_skins_robots">Robots</string>
+    <string name="submenu_description_skins_animals">Versuchen Sie, sich in das Bild eines geliebten Tieres, skins herunterladen, die Sie mögen.</string>
+    <string name="submenu_description_skins_anime">Werde zum Helden in jeder jetzt Anime!</string>
+    <string name="submenu_description_skins_boys">Wählen Sie eine Haut eines Jungen, der am besten zu Ihnen geeignet ist.</string>
+    <string name="submenu_description_skins_celebrities">Ob die bekanntesten auf dem Server! Stellen Sie die Haut von einer berühmten Person!</string>
+    <string name="submenu_description_skins_girls">Wählen Haut Mädchen, die Ihrer Anfrage entspricht.</string>
+    <string name="submenu_description_skins_heroes">Die bekanntesten Superhelden in dieser Kategorie warten auf Sie!</string>
+    <string name="submenu_description_skins_military">Wenn Sie gerne zu kämpfen, dann ist diese Kategorie für Sie!</string>
+    <string name="submenu_description_skins_monsters">Messen Sie sich mit Ihren Freunden, die durch die Nutzung dieser Kategorie schreckliche Haut haben.</string>
+    <string name="submenu_description_skins_other">Die Auswahl einer Vielzahl von Skins.</string>
+    <string name="submenu_description_skins_robots">Iron Man oder Transformator? Wählen Sie Ihre eigenen!</string>
+    <string name="activity_favorite">Favoriten</string>
+    <string name="add_to_favorite">Zu den Favoriten hinzufügen</string>
+    <string name="added_to_favorite">Added to Favoriten</string>
+    <string name="remove_from_favorite">Entfernt von Favoriten</string>
+    <string name="server_address">Adresse:</string>
+    <string name="server_port">Hafen:</string>
+    <string name="server_version">Version:</string>
+    <string name="suggest_map">Senden Sie eine Karte</string>
+    <string name="suggest_mod">Senden Sie eine mod</string>
+    <string name="suggest_server">Senden Sie einen Server</string>
+    <string name="suggest_skin">Senden Sie eine Haut</string>
+    <string name="suggest_texture">Senden Sie eine Textur</string>
+    <string name="suggest_map_description">Bringen Sie auf den Buchstaben Ihrer Karte und senden Sie es uns!</string>
+    <string name="suggest_mod_description">Bringen Sie den Buchstaben Mod und schicken Sie es uns!</string>
+    <string name="suggest_server_description">Bringen Sie auf den Brief Ihrem Server und senden Sie es uns!</string>
+    <string name="suggest_skin_description">Bringen Sie auf das Schreiben Ihrer Haut und senden Sie es uns!</string>
+    <string name="suggest_skin_mail_description">Bringen Sie hier, um Ihre Haut und klicken Sie senden!</string>
+    <string name="suggest_texture_description">Bringen Sie auf das Schreiben Ihre Textur und schicken Sie es uns!</string>
+    <string name="suggest_map_mail_description">Benötigte Version Minecraft :\nBeschreibung Karte:\nBringen Sie hier Ihre Karte und klicken Sie senden!</string>
+    <string name="suggest_mod_mail_description">Benötigte Version Minecraft :\nBeschreibung mod:\nBringen Sie hier, du bist mod und klicken Sie senden!</string>
+    <string name="suggest_server_mail_description">Benötigte Version Minecraft :\nIP:\nHafen:\nBeschreibung des Servers:</string>
+    <string name="suggest_texture_mail_description">Benötigte Version Minecraft :\nBeschreibung Textur:\nBringen Sie hier Sie sind Textur und klicken Sie senden!</string>
+    <string name="favorite_is_empty">Favoriten leer</string>
+    <string name="save">Speichern</string>
+    <string name="set_as_wallpaper">Als Hintergrundbild festlegen</string>
+    <string name="you_may_also_like">Sie können auch mögen</string>
+    <string name="intro_welcome">Willkommen bei MCPE Launcher</string>
+    <string name="intro_welcome_description">In unserer App finden Sie viele interessante Dinge für Minecraft PE</string>
+    <string name="intro_mods_description">Wir haben die interessantesten und beliebtesten Mods zusammengestellt</string>
+    <string name="intro_maps_description">Hunderte von großen und schönen Karten des Überlebens, Abenteuer und Mini-Spiele</string>
+    <string name="intro_skins_description">Tausende von Häuten für Jungen und Mädchen für jeden Geschmack und Farbe</string>
+    <string name="intro_servers_description">Der beste und der neue Server, mit Freunden zu spielen, ist immer online</string>
+    <string name="error">Fehler</string>
+    <string name="error_download_description">Während des Downloads ist ein unerwarteter Fehler aufgetreten</string>
+    <string name="import_string">Einführen</string>
+    <string name="minecraft_not_installed_description">Um dieses Programm verwenden zu können, müssen Sie auf Ihrem Gerät Minecraft PE.</string>
+    <string name="minecraft_not_installed_title">Minecraft PE nicht installiert</string>
+    <string name="skin_saved_to_gallery">Haut in der Galerie gespeichert</string>
+    <string name="open_minecraft">Öffnen Sie MCPE</string>
+    <string name="see_all">Alle anzeigen</string>
+    <string name="seed_dialog_description">Seed heruntergeladen und installiert in Minecraft PE.</string>
+    <string name="choose_file">Wählen Sie eine Datei aus</string>
+    <string name="empty_directory">Leeres Verzeichnis</string>
+    <string name="enter_data_on_server">Geben Sie die Daten auf dem Server ein</string>
+    <string name="error_blank_field">Das Feld darf nicht leer sein.</string>
+    <string name="error_selecting_file">Fehler beim Auswählen von Datei</string>
+    <string name="file_selected">Ausgewählte Datei:</string>
+    <string name="internal_storage">Interne Speicher</string>
+    <string name="no_file_chosen">Keine Datei ausgewählt</string>
+    <string name="required_version_mcpe">Erforderliche Version Minecraft</string>
+    <string name="select_file">Wählen Sie eine Datei aus</string>
+    <string name="select_skin_file">Wählen Sie Skin-Datei</string>
+    <string name="sending">Senden</string>
+    <string name="server_name">Name</string>
+    <string name="social">Soziale</string>
+    <string name="storage_removed">Die Lagerung wurde entfernt oder unmontiert.</string>
+    <string name="like_app">Mögen Sie %1$s ?</string>
+    <string name="skin_not_installed">Haut ist nicht in Minecraft PE installiert.</string>
+    <string name="activity_skins_viewer">Skins-Viewer</string>
+    <string name="version">Version</string>
+    <string name="sort_by_version">Sortieren nach Version</string>
+    <string name="open_skin">Haut öffnen</string>
+    <string name="blocklauncher_texture_dialog_description">Um die texture zu installieren, müssen Sie auf Ihrem Gerät BlockLauncher.</string>
+    <string name="texture_dialog_blocklauncher_description">Importieren Sie texture in Minecraft PE?</string>
+    <string name="mod_dialog_description_success">Mod Erfolgsimport in Minecraft PE.</string>
+    <string name="description">Beschreibung</string>
+    <string name="all_version">Alle Versionen</string>
+    <string name="permission_denied">Erlaubnis verweigert</string>
+    <string name="save_skin">Speichern Sie die Haut</string>
+
+</resources>

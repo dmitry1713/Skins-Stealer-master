@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    }
+]

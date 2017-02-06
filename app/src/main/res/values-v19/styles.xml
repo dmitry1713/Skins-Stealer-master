@@ -1,0 +1,31 @@
+<resources>
+    <!--  Base application theme.  -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--  Customize your theme here.  -->
+        <item name="android:textColorPrimary">@color/myTextPrimaryColor</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:textColor">@color/button_color_black</item>
+        <item name="buttonStyle">@style/CustomButton</item>
+        <item name="android:buttonStyle">@style/CustomButton</item>
+    </style>
+
+    <!--<style name="AppTheme.ActionBar" parent="Theme.AppCompat.Light">-->
+        <!--  Customize your theme here.  -->
+        <!--<item name="android:textColorPrimary">@color/white</item>-->
+        <!--<item name="drawerArrowStyle">@style/DrawerArrowStyle</item>-->
+        <!--<item name="android:textColor">@color/button_color_black</item>-->
+        <!--<item name="android:buttonStyle">@style/CustomButton</item>-->
+        <!--<item name="buttonStyle">@style/CustomButton</item>-->
+        <!--<item name="actionBarStyle">@style/CustomActionBar</item>-->
+    <!--</style>-->
+
+    <style name="ToolBarStyle" parent="">
+        <item name="android:theme">@style/Toolbar</item>
+    </style>
+
+    <style name="CustomButton" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/button_color_white</item>
+    </style>
+</resources>

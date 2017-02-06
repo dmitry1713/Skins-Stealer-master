@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/back"
+        android:icon="@drawable/ic_webview_back"
+        android:orderInCategory="101"
+        android:title="@string/back_webview"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/forward"
+        android:icon="@drawable/ic_webview_forward"
+        android:orderInCategory="102"
+        android:title="@string/forward_webview"
+        app:showAsAction="ifRoom"/>
+
+    <group android:id="@+id/group_main">
+        <item
+            android:id="@+id/offerwall"
+            android:title="@string/offerwal_activity"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/removeads"
+            android:title="@string/remove_ads"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/share"
+            android:title="@string/share"
+            app:showAsAction="never"/>
+
+        <item
+            android:id="@+id/rate"
+            android:title="@string/rate"
+            app:showAsAction="never"/>
+
+        <item
+            android:id="@+id/settings"
+            android:title="@string/settings"
+            app:showAsAction="never"/>
+    </group>
+
+</menu>

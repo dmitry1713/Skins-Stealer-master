@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="drawer_width">320dp</dimen>
+    <dimen name="image_icon_size">200dp</dimen>
+    <dimen name="menu_title_text_margin">25dp</dimen>
+    <dimen name="menu_title_text_size">22sp</dimen>
+    <dimen name="native_ads_size">236dp</dimen>
+    <dimen name="preference_fragment_padding_side">64dp</dimen>
+    <dimen name="text_button_size">18sp</dimen>
+    <dimen name="text_description_size">18sp</dimen>
+    <dimen name="text_title_size">28sp</dimen>
+</resources>

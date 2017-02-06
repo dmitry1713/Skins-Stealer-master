@@ -1,0 +1,69 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--  Customize your theme here.  -->
+        <item name="android:textColorPrimary">@color/myTextPrimaryColor</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:buttonStyle">@style/CustomButton</item>
+        <item name="colorAccent">@color/mainColor</item>
+    </style>
+
+    <style name="AppTheme.ActionBar" parent="Theme.AppCompat.Light">
+        <!--<item name="android:buttonStyle">@style/CustomButton</item>-->
+        <item name="android:textColor">@color/black</item>
+        <item name="actionBarStyle">@style/CustomActionBar</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="alertDialogTheme">@style/YourDialogStyle</item>
+    </style>
+
+    <style name="YourDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorSecondary">@color/black</item>
+        <item name="android:textColorPrimary">@color/black</item>
+    </style>
+
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <style name="ToolBarStyle" parent="">
+        <item name="android:theme">@style/Toolbar</item>
+    </style>
+
+    <style name="Toolbar" parent="Base.ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">#fff</item>
+    </style>
+
+    <style name="CustomButton" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/button_color_white</item>
+    </style>
+
+    <style name="MenuButtonsStyle">
+        <item name="fab_size">mini</item>
+        <item name="fab_showAnimation">@anim/jump_from_down</item>
+        <item name="fab_hideAnimation">@anim/jump_to_down</item>
+        <item name="fab_shadowColor">#444</item>
+        <item name="fab_colorNormal">@color/colorMiniNormal</item>
+        <item name="fab_colorPressed">@color/colorMiniPressed</item>
+        <item name="fab_colorRipple">@color/colorMiniRipple</item>
+    </style>
+
+    <style name="CustomActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background" tools:ignore="NewApi">@color/mainColor</item>
+        <item name="background">@color/mainColor</item>
+        <item name="titleTextStyle">@style/TextStyle</item>
+    </style>
+
+    <style name="TextStyle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="CustomActionBarTheme" parent="@style/Theme.AppCompat.Light">
+        <item name="android:actionBarStyle" tools:ignore="NewApi">@style/CustomActionBar</item>
+        <item name="actionBarStyle">@style/CustomActionBar</item>
+
+    </style>
+</resources>

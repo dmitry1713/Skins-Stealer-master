@@ -1,0 +1,26 @@
+<resources>
+    <!--  Base application theme.  -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--  Customize your theme here.  -->
+        <item name="android:textColorPrimary">@color/myTextPrimaryColor</item>
+        <item name="android:navigationBarColor">@color/myNavigationColor</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:buttonStyle">@style/CustomButton</item>
+    </style>
+    <style name="ToolBarStyle" parent="">
+        <item name="android:elevation">@dimen/toolbar_elevation</item>
+        <item name="android:transitionName">actionBar</item>
+        <item name="android:theme">@style/Toolbar</item>
+        <item name="android:popupTheme">@style/Toolbar</item>
+    </style>
+    <style name="CustomButton" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/button_color_white</item>
+    </style>
+    <style name="AlertDialogCustom" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/accent_material_light</item>
+    </style>
+</resources>

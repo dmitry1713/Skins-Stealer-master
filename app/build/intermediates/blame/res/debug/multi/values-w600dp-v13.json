@@ -1,0 +1,354 @@
+[
+    {
+        "outputFile": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 44,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 47,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 47,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 53,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 243,
+                        "endColumn": 53,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 51,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 51,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 47,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 47,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endColumn": 63,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 63,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 47,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 47,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 52,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 422,
+                        "endColumn": 52,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 46,
+                    "endOffset": 509
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 375,
+                        "endColumn": 46,
+                        "endOffset": 417
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 44,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 47,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 47,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 53,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 243,
+                        "endColumn": 53,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 51,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 51,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 47,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 47,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endColumn": 63,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 63,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 47,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 47,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 52,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 422,
+                        "endColumn": 52,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 46,
+                    "endOffset": 509
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 375,
+                        "endColumn": 46,
+                        "endOffset": 417
+                    }
+                }
+            }
+        ]
+    }
+]

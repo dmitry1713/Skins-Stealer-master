@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- offerwall -->
+    <string name="offerwal_activity">Aplicativos</string>
+    <string name="offer_button_text">Livre</string>
+
+    <!--in-app-->
+    <string name="remove_ads">Remover propagandas</string>
+
+    <!-- settings -->
+    <string name="settings_general_summary">informações nome de usuário e senha</string>
+    <string name="settings_general">Geral</string>
+
+    <string name="settings_showmenu_summary">Sim/não</string>
+    <string name="settings_showmenu">Mostrar menu lateral na partida</string>
+
+    <string name="settings_rssnotify_summary">Informe-se quando há novos artigos</string>
+    <string name="settings_rssnotify">notificações</string>
+
+    <string name="settings_other_summary">Outra informação</string>
+    <string name="settings_other">De outros</string>
+
+    <string name="settings_aboutus_summary">Informações sobre a sua aplicação</string>
+    <string name="settings_aboutus">Sobre</string>
+    <string name="settings_aboutus_header">Sobre</string>
+    <string name="settings_aboutus_version">Versão</string>
+    <string name="settings_aboutus_thanks">Obrigado por baixar o aplicativo</string>
+
+    <string name="settings_rate_summary">Ajudar outros usuários a apreciar este pedido</string>
+    <string name="settings_rate">Avalie este aplicativo</string>
+
+    <string name="settings_share_summary">Fale sobre este aplicativo para seus amigos</string>
+    <string name="settings_share">Compartilhar</string>
+
+    <!-- General -->
+    <string name="settings">Configurações</string>
+    <string name="loading">Carregando…</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="section">Seção</string>
+    <string name="extra">Extra</string>
+    <string name="share">Compartilhar</string>
+    <string name="share_choise">Compartilhe</string>
+    <string name="rate">Taxa</string>
+    <string name="back_pressed">Por favor, clique em voltar novamente para sair</string>
+
+    <!--  webview  -->
+    <string name="back_webview">Costas</string>
+    <string name="forward_webview">para a frente</string>
+
+    <!--Dialogs-->
+    <string name="download">Baixar</string>
+    <string name="open">Aberto</string>
+    <string name="cancel">Cancelar</string>
+    <string name="install">Instalar</string>
+    <string name="enable">Habilitar</string>
+
+    <string name="skin_dialog_description">Pele instalado e aplicado em Minecraft PE.\n\nAbra Minecraft PE?</string>
+
+    <string name="map_dialog_description">Mapa baixado e instalado em Minecraft PE.</string>
+
+    <string name="mod_dialog_description">Import mod no Minecraft PE?</string>
+
+    <string name="result_mod_dialog_title">Mod importado com sucesso</string>
+    <string name="result_mod_dialog_description">Abra Minecraft PE?</string>
+
+    <string name="blocklauncher_dialog_title">BlockLauncher não instalado</string>
+    <string name="blocklauncher_dialog_description">Para instalar o mod, você deve ter no seu dispositivo BlockLauncher.</string>
+
+    <string name="network_dialog_title">Nenhuma conexão de rede</string>
+    <string name="network_dialog_description">Por favor, habilite internet móvel</string>
+
+    <!--Not Translated-->
+
+    <!-- Example -->
+
+    <!-- navigation drawer -->
+
+    <!--Preference-->
+
+    <!--Package Name-->
+    <string name="download_file">Baixando arquivo ..</string>
+    <string name="file_saved">Arquivo salvo com sucesso</string>
+    <string name="file_saved_dialog">Arquivo %1$s salvo</string>
+    <string name="texture_dialog_description">Textura definido para Minecraft PE.</string>
+    <string name="path">Caminho %1$s</string>
+    <string name="save_to_gallery">Salvar a Galeria</string>
+    <string name="save_to_minecraft">Guardar em Minecraft PE</string>
+    <string name="wallpaper_set_title">Papel de parede</string>
+    <string name="wallpaper_set_description">Wallpapers instalado com sucesso na área de trabalho do seu dispositivo.</string>
+    <string name="file_not_saved">Filé de notas guardadas</string>
+    <string name="wallpaper_not_set_title">Wallpaper não definida</string>
+    <string name="wallpaper_not_set_description">Não papéis de parede instalado no desktop do seu dispositivo.</string>
+    <string name="add">Adicionar</string>
+    <string name="add_to_minecraft">Adicionar em MCPE</string>
+    <string name="minecraft_file_not_found">Arquivos do aplicativo Minecraft PE encontrados</string>
+    <string name="server_dialog_description">"Servidor adicionado ao aplicativo Minecraft PE. "</string>
+    <string name="activity_main">Menu</string>
+    <string name="activity_maps">Mapas</string>
+    <string name="activity_mods">Mods</string>
+    <string name="activity_seeds">Seeds</string>
+    <string name="activity_servers">Servers</string>
+    <string name="activity_skin_stealer">Skin Stealer</string>
+    <string name="activity_skins">Skins</string>
+    <string name="activity_textures">Texturas</string>
+    <string name="activity_wallpaper">Wallpapers</string>
+    <string name="activity_wallpaper_set">Wallpaper Set</string>
+    <string name="skin_not_found">Pele não encontrado</string>
+    <string name="excellent">Excelente!</string>
+    <string name="rate_us">Por favor, classifique-nos!</string>
+    <string name="rate_us_message">Nós realmente apreciamos os nossos usuários e todos os dias tentando fazer o nosso melhor aplicação!</string>
+    <string name="thank_feedback">Obrigado pelo seu feedback!</string>
+    <string name="rate_us_on_google">Sua opinião é muito importante para nós.\nPor favor, classifique o nosso aplicativo no Google Play!</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Anterior</string>
+    <string name="view">Olhar</string>
+    <string name="send">Para enviar</string>
+    <string name="send_files">Enviar um arquivo</string>
+    <string name="file_name">Nome do arquivo</string>
+    <string name="file_description">Descrição do arquivo</string>
+    <string name="not_email_client">Não há clientes de e-mail instaladas.</string>
+    <string name="send_files_description">Adicionar em nossa aplicação, da sua pele, mapas, mods, servidor, textura!\nIremos publicar seus arquivos em nossa aplicação.</string>
+    <string name="suggest_description">Sugerir seu mods, mapas, peles, textura, e vamos publicá-los em nossa aplicação!</string>
+    <string name="suggest_title">Sugerir seu</string>
+    <string name="suggest_mail_description">Jogue sua eventos, mapa, ou a textura da pele.</string>
+    <string name="suggest">Sugerir</string>
+    <string name="fragment_skins_animals">Animais</string>
+    <string name="fragment_skins_anime">Anime</string>
+    <string name="fragment_skins_celebrity">Celebridades</string>
+    <string name="fragment_skins_boys">Meninos</string>
+    <string name="fragment_skins_girls">Meninas</string>
+    <string name="fragment_skins_heroes">Heróis</string>
+    <string name="fragment_skins_military">Militares</string>
+    <string name="fragment_skins_monsters">Monstros</string>
+    <string name="fragment_skins_other">De outros</string>
+    <string name="fragment_skins_robots">Robots</string>
+    <string name="submenu_description_skins_boys">Escolha uma pele de um menino que é o mais adequado para você.</string>
+    <string name="submenu_description_skins_girls">Select menina pele que corresponde ao seu pedido.</string>
+    <string name="submenu_description_skins_heroes">Os super-heróis mais famosos nesta categoria estão esperando por você!</string>
+    <string name="submenu_description_skins_animals">Tente-se à imagem de um animal amado, baixar skins que você gosta.</string>
+    <string name="submenu_description_skins_military">Se você gosta de lutar, então esta categoria é para você!</string>
+    <string name="submenu_description_skins_monsters">Competir com seus amigos que têm pele terrível usando esta categoria.</string>
+    <string name="submenu_description_skins_anime">Torne-se o herói de qualquer anime agora!</string>
+    <string name="submenu_description_skins_robots">Homem de Ferro ou Transformer? Escolha o seu!</string>
+    <string name="submenu_description_skins_celebrities">Se o mais famoso no servidor! Definir a pele de uma pessoa famosa!</string>
+    <string name="submenu_description_skins_other">Selecção de uma variedade de peles.</string>
+    <string name="activity_favorite">Favorites</string>
+    <string name="add_to_favorite">Adicionar aos favoritos</string>
+    <string name="added_to_favorite">Soma-se a favorita</string>
+    <string name="remove_from_favorite">Removido dos favoritos</string>
+    <string name="server_address">Endereço:</string>
+    <string name="server_port">Porto:</string>
+    <string name="server_version">Versão:</string>
+    <string name="suggest_map">Enviar um mapa</string>
+    <string name="suggest_mod">Enviar um mod</string>
+    <string name="suggest_server">Enviar um servidor</string>
+    <string name="suggest_skin">Enviar uma pele</string>
+    <string name="suggest_texture">Enviar uma textura</string>
+    <string name="suggest_map_description">Anexar ao pé da letra o seu mapa e enviá-lo para nós!</string>
+    <string name="suggest_mod_description">Anexar ao pé da letra o seu mod e enviá-lo para nós!</string>
+    <string name="suggest_server_description">Anexar ao pé da letra o servidor e enviá-lo para nós!</string>
+    <string name="suggest_skin_description">Anexar à carta sua pele e enviá-lo para nós!</string>
+    <string name="suggest_skin_mail_description">Anexar aqui a sua pele e clique em enviar!</string>
+    <string name="suggest_texture_description">Anexar ao pé da letra a sua textura e enviá-lo para nós!</string>
+    <string name="suggest_map_mail_description">versão necessária Minecraft:\nDescrição do mapa:\nFixe aqui o seu mapa e clique em enviar!</string>
+    <string name="suggest_mod_mail_description">versão necessária Minecraft:\nDescrição mod:\nAnexar aqui você é mod e clique em enviar!</string>
+    <string name="suggest_server_mail_description">versão necessária Minecraft:\nIP:\nPorta:\nDescrição do seu servidor:</string>
+    <string name="suggest_texture_mail_description">versão necessária Minecraft:\nDescrição textura:\nAnexar aqui você é textura e clique em enviar!</string>
+    <string name="favorite_is_empty">Favoritos vazias</string>
+    <string name="save">Guardar</string>
+    <string name="set_as_wallpaper">Definir como Papel de Parede</string>
+    <string name="you_may_also_like">Você também pode gostar</string>
+    <string name="intro_welcome">Bem-vindo ao MCPE Lançador</string>
+    <string name="intro_welcome_description">No nosso aplicativo que você vai encontrar muitas coisas interessantes para Minecraft PE</string>
+    <string name="intro_mods_description">Reunimos os mods mais interessantes e populares</string>
+    <string name="intro_maps_description">Centenas de grandes e belos mapas de sobrevivência, aventura e mini-jogos</string>
+    <string name="intro_skins_description">Milhares de peles para meninos e meninas para todos os gostos e cor</string>
+    <string name="intro_servers_description">O melhor e o novo servidor para jogar com os amigos é sempre on-line</string>
+    <string name="error_download_description">Durante o download ocorreu um erro inesperado</string>
+    <string name="error">Erro</string>
+    <string name="import_string">Importar</string>
+    <string name="minecraft_not_installed_description">Para utilizar este programa, você deve ter no seu dispositivo Minecraft PE.</string>
+    <string name="minecraft_not_installed_title">Minecraft PE não for instalado</string>
+    <string name="skin_saved_to_gallery">Pele salvo para a galeria</string>
+    <string name="open_minecraft">Abrir MCPE</string>
+    <string name="see_all">Ver todos</string>
+    <string name="seed_dialog_description">Seed baixado e instalado em Minecraft PE.</string>
+    <string name="choose_file">Escolha um arquivo</string>
+    <string name="empty_directory">Diretório vazio</string>
+    <string name="enter_data_on_server">Inserir dados no servidor</string>
+    <string name="error_blank_field">O campo não pode ser deixado em branco.</string>
+    <string name="error_selecting_file">Erro ao selecionar Arquivo</string>
+    <string name="file_selected">Arquivo selecionado:</string>
+    <string name="internal_storage">Armazenamento interno</string>
+    <string name="no_file_chosen">Nenhum arquivo selecionado</string>
+    <string name="required_version_mcpe">Versão necessária Minecraft</string>
+    <string name="select_file">Selecionar um arquivo</string>
+    <string name="select_skin_file">Selecione o arquivo de pele</string>
+    <string name="sending">Enviando</string>
+    <string name="server_name">Nome</string>
+    <string name="social">Sociais</string>
+    <string name="storage_removed">O armazenamento foi removido ou desmontado.</string>
+    <string name="like_app">Gosta de %1$s ?</string>
+    <string name="skin_not_installed">A pele não está instalada no Minecraft PE.</string>
+    <string name="activity_skins_viewer">Visualizador de Skins</string>
+    <string name="open_skin">Abrir a pele</string>
+    <string name="sort_by_version">Classificar por Versão</string>
+    <string name="version">Versão</string>
+    <string name="blocklauncher_texture_dialog_description">Para instalar o texture, você deve ter no seu dispositivo BlockLauncher.</string>
+    <string name="texture_dialog_blocklauncher_description">Import texture no Minecraft PE?</string>
+    <string name="mod_dialog_description_success">Mod sucesso importar para Minecraft PE.</string>
+    <string name="description">Descrição</string>
+    <string name="all_version">Todas as versões</string>
+    <string name="permission_denied">Permissão negada</string>
+    <string name="save_skin">Salvar a pele</string>
+
+
+</resources>

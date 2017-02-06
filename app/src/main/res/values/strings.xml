@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Skins Stealer</string>
+    
+    <!-- offerwall -->
+    <string name="offerwal_activity">Apps</string>
+    <string name="offer_button_text">Free</string>
+
+    <!--in-app-->
+    <string name="remove_ads">Remove ads</string>
+
+    <!-- settings -->
+    <string name="settings">Settings</string>
+
+    <string name="settings_general_summary">General information</string>
+    <string name="settings_general">General</string>
+    
+    <string name="settings_showmenu_summary">Yes/No</string>
+    <string name="settings_showmenu">Show side menu on start</string>
+
+    <string name="settings_rssnotify_summary">Get informed when there are new articles</string>
+    <string name="settings_rssnotify">Notifications</string>
+
+    <string name="settings_other_summary">Other information</string>
+    <string name="settings_other">Other</string>
+    
+    <string name="settings_aboutus_summary">Information about our application</string>
+    <string name="settings_aboutus">About</string>
+    <string name="settings_aboutus_header">About</string>
+    <string name="settings_aboutus_version">Version</string>
+    <string name="settings_aboutus_thanks">Thank you for downloading our app</string>
+
+    <string name="settings_rate_summary">Help other users enjoy this application</string>
+    <string name="settings_rate">Rate this app</string>
+
+    <string name="settings_share_summary">Tell about this app to your friends</string>
+    <string name="settings_share">Share</string>
+
+    <!-- General -->
+    <string name="loading">Loading…</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="add">add</string>
+    <string name="section">Section</string>
+    <string name="extra">Extra</string>
+    <string name="share">Share</string>
+    <string name="share_choise">Share it</string>
+    <string name="rate">Rate</string>
+    <string name="download_file">Downloading file..</string>
+    <string name="save_to_minecraft">Save to Minecraft PE</string>
+    <string name="add_to_minecraft">Add to MCPE</string>
+    <string name="save_to_gallery">Save to Gallery</string>
+    <string name="path">Path %1$s</string>
+    <string name="file_saved_dialog">File %1$s saved</string>
+    <string name="back_pressed">Please click BACK again to exit</string>
+
+    <!--  webview  -->
+    <string name="back_webview">Back</string>
+    <string name="forward_webview">Forward</string>
+
+    <!--Dialogs-->
+    <string name="ok" translatable="false">OK</string>
+    <string name="open">Open</string>
+    <string name="download">Download</string>
+    <string name="cancel">Cancel</string>
+    <string name="install">Install</string>
+    <string name="enable">Enable</string>
+
+    <string name="file_saved">File successfully saved</string>
+    <string name="file_not_saved">File not saved</string>
+
+    <string name="skin_dialog_description">Skin installed and applied in Minecraft PE. \n\nOpen Minecraft PE?</string>
+    <string name="server_dialog_description">Server added to the application Minecraft PE.</string>
+    <string name="map_dialog_description">Map downloaded and installed in Minecraft PE.</string>
+    <string name="mod_dialog_description">Import mod in Minecraft PE?</string>
+    <string name="mod_dialog_description_success">Mod success import to Minecraft PE.</string>
+    <string name="texture_dialog_blocklauncher_description">Import texture in Minecraft PE?</string>
+    <string name="texture_dialog_description">Texture set to Minecraft PE.</string>
+    <string name="result_mod_dialog_description">Open Minecraft PE?</string>
+    <string name="result_mod_dialog_title">Mod successfully imported</string>
+    <string name="minecraft_file_not_found">Minecraft PE application files found</string>
+
+    <string name="blocklauncher_dialog_title">BlockLauncher not installed</string>
+    <string name="blocklauncher_dialog_description">To install the mod, you must have on your device BlockLauncher.</string>
+    <string name="blocklauncher_texture_dialog_description">To install the texture, you must have on your device BlockLauncher.</string>
+
+    <string name="network_dialog_title">No network connection</string>
+    <string name="network_dialog_description">Please, enable mobile internet</string>
+
+    <!--Wallpaper-->
+    <string name="wallpaper_set_title">Wallpaper set</string>
+    <string name="wallpaper_set_description">Wallpapers successfully installed on the desktop of your device.</string>
+    <string name="wallpaper_not_set_title">Wallpaper not set</string>
+    <string name="wallpaper_not_set_description">Wallpapers not installed on the desktop of your device.</string>
+
+    <!--Activity Name-->
+    <string name="activity_main">Menu</string>
+    <string name="activity_wallpaper">Wallpapers</string>
+    <string name="activity_wallpaper_set">Wallpaper Set</string>
+    <string name="activity_mods">Mods</string>
+    <string name="activity_maps">Maps</string>
+    <string name="activity_seeds">Seeds</string>
+    <string name="activity_servers">Servers</string>
+    <string name="activity_textures">Textures</string>
+    <string name="activity_skins">Skins</string>
+    <string name="activity_skin_stealer">Skin Stealer</string>
+    <string name="activity_favorite">Favorite</string>
+    <string name="activity_test" translatable="false">Test</string>
+
+    <string name="activity_mods_more" translatable="false">Mods more</string>
+    <string name="activity_maps_more" translatable="false">Maps more</string>
+    <string name="activity_textures_more" translatable="false">Testure more</string>
+    <string name="activity_seeds_more" translatable="false">Seeds more</string>
+    <string name="activity_servers_more" translatable="false">Servers more</string>
+
+    <!--Fragment Name-->
+    <string name="fragment_skins_boys">Boys</string>
+    <string name="fragment_skins_girls">Girls</string>
+    <string name="fragment_skins_heroes">Heroes</string>
+    <string name="fragment_skins_animals">Animals</string>
+    <string name="fragment_skins_military">Military</string>
+    <string name="fragment_skins_monsters">Monsters</string>
+    <string name="fragment_skins_anime">Anime</string>
+    <string name="fragment_skins_robots">Robots</string>
+    <string name="fragment_skins_celebrity">Celebrities</string>
+    <string name="fragment_skins_other">Other</string>
+
+    <!--SubMenu Description-->
+    <string name="submenu_description_skins_boys">Choose a skin of a boy who is best suited to you.</string>
+    <string name="submenu_description_skins_girls">Select skin girl that matches your request.</string>
+    <string name="submenu_description_skins_heroes">The most famous superheroes in this category are waiting for you!</string>
+    <string name="submenu_description_skins_animals">Try yourself in the image of a loved animal, download skins that you like.</string>
+    <string name="submenu_description_skins_anime">Become the hero of any anime now!</string>
+    <string name="submenu_description_skins_monsters">Compete with your friends who have terrible skin by using this category.</string>
+    <string name="submenu_description_skins_robots">Iron Man or Transformer? Choose your own!</string>
+    <string name="submenu_description_skins_military">If you love fighting, then this category is for you!</string>
+    <string name="submenu_description_skins_celebrities">Whether the most famous on the server! Set the skin of a famous person!</string>
+    <string name="submenu_description_skins_other">Selection of a variety of skins.</string>
+
+    <!--Not Translated-->
+
+    <!-- Example -->
+    <string name="title_example" translatable="false">Title example text</string>
+    <string name="description_example" translatable="false">Description example text very, very, very, very, very, very, very, very, very, very, very, very long</string>
+
+    <!-- navigation drawer -->
+    <string name="drawer_open" translatable="false">Menu opened</string>
+    <string name="drawer_close" translatable="false">Menu closed</string>
+
+    <!--Preference-->
+    <string name="notify_on_pref" translatable="false">notify_on</string>
+    <string name="premium_pref" translatable="false">premium_pref</string>
+    <string name="navigation_view_pref" translatable="false">menu_open_on_start</string>
+    <string name="appreciated_pref" translatable="false">appreciated_pref</string>
+    <string name="first_launch_pref" translatable="false">first_launch_pref</string>
+
+    <!--Package Name-->
+    <string name="block_launcher" translatable="false">net.zhuoweizhang.mcpelauncher</string>
+    <string name="block_launcher_pro" translatable="false">net.zhuoweizhang.mcpelauncher.pro</string>
+    <string name="minecraft_pe" translatable="false">com.mojang.minecraftpe</string>
+
+    <!--Files and Foldes-->
+    <string name="path_folder_minecraft" translatable="false">/games/com.mojang/minecraftpe/</string>
+    <string name="file_skin_custom" translatable="false">custom.png</string>
+
+    <!--Protocol-->
+    <string name="protocol_market" translatable="false">market://details?id=</string>
+    <string name="protocol_http_google_play" translatable="false">http://play.google.com/store/apps/details?id=</string>
+
+    <!--Email-->
+    <string name="support_gmail" translatable="false">appscreat.help@gmail.com</string>
+
+    <string name="skin_not_found">Skin not found</string>
+
+    <string name="rate_us">Please rate us!</string>
+    <string name="like_app">Do you like %1$s ?</string>
+    <string name="excellent">Excellent!</string>
+    <string name="rate_us_on_google">Your feedback is very important to us.\nPlease rate our application in Google Play!</string>
+    <string name="rate_us_message">We really appreciate of our users and every day trying to make our application better!</string>
+    <string name="thank_feedback">Thanks for your feedback!</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="view">View</string>
+    <string name="not_email_client">There are no email clients installed.</string>
+    <string name="send">Send</string>
+    <string name="send_files">Send files</string>
+    <string name="send_files_description">Add in our application, your skins, maps, mods, server, texture!\nWe will publish your files in our application.</string>
+    <string name="file_name">File Name</string>
+    <string name="file_description">File Description</string>
+
+    <string name="suggest">Suggest</string>
+    <string name="menu_title_example" translatable="false">TITLE</string>
+    <string name="favorite_pref" translatable="false">favorite_pref</string>
+    <string name="server_version">Version:</string>
+    <string name="server_address">Address:</string>
+    <string name="server_port">Port:</string>
+    <string name="server_ip" translatable="false">IP</string>
+    <string name="server_name">Name</string>>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="added_to_favorite">Added to favorite</string>
+    <string name="remove_from_favorite">Remove from favorite</string>
+
+    <!--Suggest-->
+    <string name="suggest_title">Suggest Your</string>
+    <string name="suggest_description">Suggest your mods, maps, skins, texture, and we will publish them in our application!</string>
+    <string name="suggest_mail_description">Add here your mod item, or skin texture.</string>
+
+    <string name="suggest_skin">Send a skin</string>
+    <string name="suggest_skin_description">Attach to the letter your skin and send it to us!</string>
+    <string name="suggest_skin_mail_description">Attach here your skin and click send!</string>
+
+    <string name="suggest_map">Send a item</string>
+    <string name="suggest_map_description">Attach to the letter your item and send it to us!</string>
+    <string name="suggest_map_mail_description">Required version Minecraft:\nDescription item:\nAttach here your item and click send!</string>
+
+    <string name="suggest_mod">Send a mod</string>
+    <string name="suggest_mod_description">Attach to the letter your mod and send it to us!</string>
+    <string name="suggest_mod_mail_description">Required version Minecraft:\nDescription mod:\nAttach here your mod and click send!</string>
+
+    <string name="suggest_texture">Send a texture</string>
+    <string name="suggest_texture_description">Attach to the letter your texture and send it to us!</string>
+    <string name="suggest_texture_mail_description">Required version Minecraft:\nDescription texture:\nAttach here your texture and click send!</string>
+
+    <string name="suggest_server">Send a server</string>
+    <string name="suggest_server_description">Attach to the letter your server and send it to us!</string>
+    <string name="suggest_server_mail_description">Required version Minecraft:\nIP:\nPort:\nDescription of your server:</string>
+    <string name="favorite_is_empty">Favorite is empty</string>
+    <string name="set_as_wallpaper">Set As Wallpaper</string>
+    <string name="save">Save</string>
+    <string name="you_may_also_like">You may also like</string>
+    <string name="intro_welcome">Welcome to MCPE Launcher</string>
+    <string name="intro_welcome_description">In our app you will find many interesting things for Minecraft PE</string>
+    <string name="intro_mods_description">We have compiled the most interesting and popular mods</string>
+    <string name="intro_maps_description">Hundreds of large and beautiful maps of survival, adventure and mini-games</string>
+    <string name="intro_skins_description">Thousands of skins for boys and girls for every taste and color</string>
+    <string name="intro_servers_description">The best and the new server to play with friends is always online</string>
+    <string name="error">Error</string>
+    <string name="error_download_description">During the download an unexpected error occurred</string>
+
+    <string name="minecraft_not_installed_title">Minecraft PE not installed</string>
+    <string name="minecraft_not_installed_description">To use this program, you must have on your device Minecraft PE.</string>
+    <string name="open_minecraft">Open MCPE</string>
+    <string name="import_string">Import</string>
+    <string name="skin_saved_to_gallery">Skin saved to the gallery</string>
+    <string name="see_all">See all</string>
+    <string name="seed_dialog_description">Seed downloaded and installed in Minecraft PE.</string>
+    <string name="facebook" translatable="false">Facebook</string>
+    <string name="vkontakte" translatable="false">Vkontakte</string>
+    <string name="google_plus" translatable="false">Google+</string>
+
+    <string name="empty_directory">Empty Directory</string>
+    <string name="storage_removed">Storage was removed or unmounted.</string>
+    <string name="choose_file">Choose a file</string>
+    <string name="error_selecting_file">Error selecting File</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="chooser_title" translatable="false">chooser_title</string>
+    <string name="file_selected">File Selected:</string>
+    <string name="error_blank_field">Field cannot be left blank.</string>
+    <string name="required_version_mcpe">Required version Minecraft</string>
+    <string name="select_file">Select a file</string>
+    <string name="no_file_chosen">No file chosen</string>
+    <string name="enter_data_on_server">Enter data on server</string>
+    <string name="select_skin_file">Select skin file</string>
+    <string name="social">Social</string>
+    <string name="sending">Sending</string>
+    <string name="skin_not_installed">Skin is not installed in Minecraft PE.</string>
+    <string name="version">Version</string>
+    <string name="sort_by_version">Sort by Version</string>
+    <string name="activity_skins_viewer">Skins Viewer</string>
+    <string name="open_skin">Open skin</string>
+    <string name="description">Description</string>
+    <string name="all_version">All Versions</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="save_skin">Save the skin</string>
+
+
+</resources>

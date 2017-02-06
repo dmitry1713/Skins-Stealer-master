@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enter.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\enter.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_enter.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\pop_enter.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exit.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\exit.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_enter.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\pop_enter.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_exit.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\pop_exit.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_in_from_right.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.4\\res\\anim\\fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_out_to_left.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.4\\res\\anim\\fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hide_to_bottom.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\hide_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_in_from_left.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.4\\res\\anim\\fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_scale_down.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.4\\res\\anim\\fab_scale_down.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_down.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\scale_down.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_out_to_right.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.4\\res\\anim\\fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_scale_down.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.4\\res\\anim\\fab_scale_down.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_up.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\scale_up.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_scale_up.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.4\\res\\anim\\fab_scale_up.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\jump_from_down.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\jump_from_down.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\show_from_bottom.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\show_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\jump_to_down.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\jump_to_down.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_up.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\scale_up.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hide_to_bottom.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\hide_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\jump_to_down.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\jump_to_down.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enter.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\enter.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_out_to_right.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.4\\res\\anim\\fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_in_from_left.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.4\\res\\anim\\fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exit.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\exit.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\jump_from_down.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\jump_from_down.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_out_to_left.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.4\\res\\anim\\fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_scale_up.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.4\\res\\anim\\fab_scale_up.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_down.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\scale_down.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_slide_in_from_right.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.4\\res\\anim\\fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\show_from_bottom.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\show_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_exit.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\anim\\pop_exit.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

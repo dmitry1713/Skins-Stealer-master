@@ -1,0 +1,408 @@
+[
+    {
+        "outputFile": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\values-v24\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1169,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\values-v24\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 156,
+                    "endOffset": 1028
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 156,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1033,
+                    "endColumn": 134,
+                    "endOffset": 1163
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 134,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1168,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1313
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\values-v24\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1019,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1318,
+                    "endColumn": 68,
+                    "endOffset": 1382
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 68,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1387,
+                    "endColumn": 63,
+                    "endOffset": 1446
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 416,
+                        "endColumn": 63,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1451,
+                    "endColumn": 68,
+                    "endOffset": 1515
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 68,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1520,
+                    "endColumn": 69,
+                    "endOffset": 1585
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 69,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1590,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\Skins-Stealer-master\\app\\src\\main\\res\\values-v24\\styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1014
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\values-v24\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1169,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\values-v24\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 156,
+                    "endOffset": 1028
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 156,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1033,
+                    "endColumn": 134,
+                    "endOffset": 1163
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 134,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1168,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1313
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\values-v24\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1019,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1318,
+                    "endColumn": 68,
+                    "endOffset": 1382
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 68,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1387,
+                    "endColumn": 63,
+                    "endOffset": 1446
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 416,
+                        "endColumn": 63,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1451,
+                    "endColumn": 68,
+                    "endOffset": 1515
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 68,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1520,
+                    "endColumn": 69,
+                    "endOffset": 1585
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 69,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1590,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\GitHub\\Skins-Stealer-master\\app\\src\\main\\res\\values-v24\\styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1014
+                    }
+                }
+            }
+        ]
+    }
+]

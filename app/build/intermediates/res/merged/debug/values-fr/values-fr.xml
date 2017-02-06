@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Plus d\'options"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"OK"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DÉSACTIVÉ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVÉ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partager avec %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string msgid="5835639618285370804" name="accept">"Accepter"</string>
+    <string name="activity_favorite">Favoris</string>
+    <string name="activity_main">Menu</string>
+    <string name="activity_maps">Cartes</string>
+    <string name="activity_mods">Mods</string>
+    <string name="activity_seeds">Graines</string>
+    <string name="activity_servers">Les serveurs</string>
+    <string name="activity_skin_stealer">Skin Stealer</string>
+    <string name="activity_skins">Skins</string>
+    <string name="activity_skins_viewer">Visionneuse de skins</string>
+    <string name="activity_textures">Textures</string>
+    <string name="activity_wallpaper">Wallpapers</string>
+    <string name="activity_wallpaper_set">Wallpaper Set</string>
+    <string name="add">Ajouter</string>
+    <string name="add_to_favorite">Ajouter aux Favoris</string>
+    <string name="add_to_minecraft">Ajouter dans MCPE</string>
+    <string name="added_to_favorite">Ajouté aux favoris</string>
+    <string name="all_version">Toutes les versions</string>
+    <string name="back_pressed">S\'il vous plaît cliquez sur RETOUR pour quitter</string>
+    <string name="back_webview">Arrière</string>
+    <string name="blocklauncher_dialog_description">Pour installer le mod, vous devez avoir sur votre appareil BlockLauncher.</string>
+    <string name="blocklauncher_dialog_title">BlockLauncher pas installé</string>
+    <string name="blocklauncher_texture_dialog_description">Pour installer le texture, vous devez avoir sur votre appareil BlockLauncher.</string>
+    <string name="cancel">Annuler</string>
+    <string name="choose_file">Choisissez un fichier</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Activer"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas tant que vous n\'aurez pas activé les services Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Activer les services Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installer"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre appareil."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Installer les services Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Erreur liée aux services Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"L\'application <ns1:g id="APP_NAME">%1$s</ns1:g> rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui ne sont pas compatibles avec votre appareil."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Mettre à jour"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas tant que vous n\'aurez pas mis à jour les services Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Mettre à jour les services Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui sont en cours de mise à jour."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"La nouvelle version des services Google Play est nécessaire. Elle sera bientôt installée automatiquement."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Ouvrir sur le téléphone"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Se connecter"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Se connecter avec Google"</string>
+    <string msgid="6155048007205742679" name="create_calendar_message">"Autoriser l\'annonce à créer un événement d\'agenda ?"</string>
+    <string msgid="7967007864778154790" name="create_calendar_title">"Créer un événement d\'agenda"</string>
+    <string msgid="4722375419392727435" name="debug_menu_ad_information">"Informations sur l\'annonce"</string>
+    <string msgid="1605938743055376690" name="debug_menu_creative_preview">"Creative Preview"</string>
+    <string msgid="2039274714455389140" name="debug_menu_title">"Sélectionner un mode débogage"</string>
+    <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Dépannage"</string>
+    <string msgid="6099173376375995052" name="decline">"Refuser"</string>
+    <string name="description">La description</string>
+    <string name="download">Télécharger</string>
+    <string name="download_file">Téléchargement du fichier ..</string>
+    <string name="empty_directory">Répertoire vide</string>
+    <string name="enable">Activer</string>
+    <string name="enter_data_on_server">Entrer les données sur le serveur</string>
+    <string name="error">Erreur</string>
+    <string name="error_blank_field">Le champ ne peut pas être laissé vide.</string>
+    <string name="error_download_description">Pendant le téléchargement d\'une erreur inattendue est survenue</string>
+    <string name="error_selecting_file">Erreur lors de la sélection du fichier</string>
+    <string name="excellent">Excellent!</string>
+    <string name="extra">Supplémentaire</string>
+    <string name="favorite_is_empty">Favoris vides</string>
+    <string name="file_description">Description du fichier</string>
+    <string name="file_name">Nom de fichier</string>
+    <string name="file_not_saved">Fillet de notes enregistrées</string>
+    <string name="file_saved">Fichier enregistré avec succès</string>
+    <string name="file_saved_dialog">Sauvé %1$s fichier</string>
+    <string name="file_selected">Fichier sélectionné:</string>
+    <string name="forward_webview">Vers l\'avant</string>
+    <string name="fragment_skins_animals">Animaux</string>
+    <string name="fragment_skins_anime">Anime</string>
+    <string name="fragment_skins_boys">Garçons</string>
+    <string name="fragment_skins_celebrity">Célébrités</string>
+    <string name="fragment_skins_girls">Filles</string>
+    <string name="fragment_skins_heroes">Héros</string>
+    <string name="fragment_skins_military">Militaire</string>
+    <string name="fragment_skins_monsters">Monstres</string>
+    <string name="fragment_skins_other">Autre</string>
+    <string name="fragment_skins_robots">Robots</string>
+    <string name="import_string">Importer</string>
+    <string name="install">Installer</string>
+    <string name="internal_storage">Stockage interne</string>
+    <string name="intro_maps_description">Des centaines de grandes et belles cartes de survie, l\'aventure et les mini-jeux</string>
+    <string name="intro_mods_description">Nous avons compilé les mods les plus intéressants et les plus populaires</string>
+    <string name="intro_servers_description">Le meilleur et le nouveau serveur pour jouer avec des amis est toujours en ligne</string>
+    <string name="intro_skins_description">Des milliers de peaux pour les garçons et les filles pour tous les goûts et les couleurs</string>
+    <string name="intro_welcome">Bienvenue à MCPE Launcher</string>
+    <string name="intro_welcome_description">Dans notre application, vous trouverez beaucoup de choses intéressantes pour Minecraft PE</string>
+    <string name="like_app">Vous aimez %1$s ?</string>
+    <string name="loading">Chargement…</string>
+    <string name="map_dialog_description">Carte téléchargé et installé dans Minecraft PE.</string>
+    <string name="minecraft_file_not_found">Fichiers d\'application Minecraft PE trouvés</string>
+    <string name="minecraft_not_installed_description">Pour utiliser ce programme, vous devez avoir sur votre appareil Minecraft PE.</string>
+    <string name="minecraft_not_installed_title">Minecraft PE pas installé</string>
+    <string name="mod_dialog_description">Importer mod dans Minecraft PE?</string>
+    <string name="mod_dialog_description_success">Importation de succès Mod à Minecraft PE.</string>
+    <string name="network_dialog_description">S\'il vous plaît, activer l\'Internet mobile</string>
+    <string name="network_dialog_title">Pas de connexion réseau</string>
+    <string name="next">Prochain</string>
+    <string name="no">Non</string>
+    <string name="no_file_chosen">Aucun fichier choisi</string>
+    <string name="not_email_client">Il n\'y a pas des clients de messagerie installés.</string>
+    <string name="offer_button_text">Gratuit</string>
+    <string name="offerwal_activity">Applications</string>
+    <string name="open">Ouvert</string>
+    <string name="open_minecraft">Ouvrir MCPE</string>
+    <string name="open_skin">Ouvrir la peau</string>
+    <string name="path">Chemin %1$s</string>
+    <string name="permission_denied">Permission refusée</string>
+    <string name="previous">Précédent</string>
+    <string name="rate">Taux</string>
+    <string name="rate_us">S\'il vous plaît nous noter!</string>
+    <string name="rate_us_message">Nous apprécions de nos utilisateurs et tous les jours essayer de faire notre application mieux!</string>
+    <string name="rate_us_on_google">Vos commentaires sont très important pour nous.\nS\'il vous plaît noter notre application sur Google Play!</string>
+    <string name="remove_ads">Supprimez la pub</string>
+    <string name="remove_from_favorite">Enlevée des favoris</string>
+    <string name="required_version_mcpe">Version requise Minecraft</string>
+    <string name="result_mod_dialog_description">Ouvrez Minecraft PE?</string>
+    <string name="result_mod_dialog_title">Mod importé avec succès</string>
+    <string name="save">Sauvegarder</string>
+    <string name="save_skin">Enregistrer la peau</string>
+    <string name="save_to_gallery">Sauvegarder dans la gallerie</string>
+    <string name="save_to_minecraft">Envoyer à Minecraft PE</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Rechercher"</string>
+    <string name="section">Section</string>
+    <string name="see_all">Voir tous</string>
+    <string name="seed_dialog_description">Seed téléchargé et installé dans Minecraft PE.</string>
+    <string name="select_file">Sélectionner un fichier</string>
+    <string name="select_skin_file">Sélectionner le fichier skin</string>
+    <string name="send">Pour envoyer</string>
+    <string name="send_files">Envoyer un fichier</string>
+    <string name="send_files_description">Ajouter dans notre application, cartes, mods, serveur, texture de votre peau!\nNous allons publier vos fichiers dans notre application.</string>
+    <string name="sending">Envoi</string>
+    <string name="server_address">Adresse:</string>
+    <string name="server_dialog_description">"Serveur ajouté à l'application Minecraft PE. "</string>
+    <string name="server_name">Nom</string>
+    <string name="server_port">Port:</string>
+    <string name="server_version">Version:</string>
+    <string name="set_as_wallpaper">Définir en tant que fond d\'écran</string>
+    <string name="settings">Paramètres</string>
+    <string name="settings_aboutus">Sur</string>
+    <string name="settings_aboutus_header">Sur</string>
+    <string name="settings_aboutus_summary">Information sur votre demande</string>
+    <string name="settings_aboutus_thanks">Merci de télécharger votre application</string>
+    <string name="settings_aboutus_version">Version</string>
+    <string name="settings_general">Général</string>
+    <string name="settings_general_summary">Nom d\'utilisateur et mot de passe</string>
+    <string name="settings_other">Autre</string>
+    <string name="settings_other_summary">Autre information</string>
+    <string name="settings_rate">Évaluer l\'application</string>
+    <string name="settings_rate_summary">Aidez les autres utilisateurs apprécient cette application</string>
+    <string name="settings_rssnotify">Notifications</string>
+    <string name="settings_rssnotify_summary">Être informé quand il y a de nouveaux articles</string>
+    <string name="settings_share">Partager</string>
+    <string name="settings_share_summary">Parlez-nous de cette application à vos amis</string>
+    <string name="settings_showmenu">Afficher le menu latéral au démarrage</string>
+    <string name="settings_showmenu_summary">Oui/Non</string>
+    <string name="share">Partager</string>
+    <string name="share_choise">Partagez-le</string>
+    <string name="skin_dialog_description">Peau installée et appliquée dans Minecraft PE.\n\nOuvrez Minecraft PE?</string>
+    <string name="skin_not_found">Peau non trouvée</string>
+    <string name="skin_not_installed">La peau n\'est pas installée dans Minecraft PE.</string>
+    <string name="skin_saved_to_gallery">Peau sauvée à la galerie</string>
+    <string name="social">Sociaux</string>
+    <string name="sort_by_version">Trier par Version</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="storage_removed">Le stockage a été supprimé ou démonté.</string>
+    <string msgid="8020323581538738027" name="store_picture_message">"Autoriser l\'annonce à stocker l\'image dans la galerie d\'images ?"</string>
+    <string msgid="4180630057627064606" name="store_picture_title">"Enregistrer l\'image"</string>
+    <string name="submenu_description_skins_animals">Essayez-vous dans l\'image d\'un animal aimé, télécharger des skins que vous aimez.</string>
+    <string name="submenu_description_skins_anime">Devenez le héros de toute l\'anime maintenant!</string>
+    <string name="submenu_description_skins_boys">Choisissez une peau d\'un garçon qui est le mieux adapté pour vous.</string>
+    <string name="submenu_description_skins_celebrities">Que ce soit le plus célèbre sur le serveur! Régler la peau d\'une personne célèbre!</string>
+    <string name="submenu_description_skins_girls">Sélectionnez fille de la peau qui correspond à votre demande.</string>
+    <string name="submenu_description_skins_heroes">Les super-héros les plus célèbres de cette catégorie sont en attente pour vous!</string>
+    <string name="submenu_description_skins_military">Si vous aimez les combats, alors cette catégorie est pour vous!</string>
+    <string name="submenu_description_skins_monsters">Rivaliser avec vos amis qui ont horrible peau en utilisant cette catégorie.</string>
+    <string name="submenu_description_skins_other">Le choix d\'une variété de peaux.</string>
+    <string name="submenu_description_skins_robots">Iron Man ou Transformer? Choisissez votre propre!</string>
+    <string name="suggest">Suggérer</string>
+    <string name="suggest_description">Proposez vos mods, cartes, peaux, texture, et nous les publierons dans notre application!</string>
+    <string name="suggest_mail_description">Jetez vos événements, la carte ou la texture de la peau.</string>
+    <string name="suggest_map">Envoyer une carte</string>
+    <string name="suggest_map_description">Joindre à la lettre de votre carte et de nous l\'envoyer!</string>
+    <string name="suggest_map_mail_description">Version requise Minecraft:\nDescription de la carte:\nAttachez ici votre carte et cliquez sur envoyer!</string>
+    <string name="suggest_mod">Envoyer un mod</string>
+    <string name="suggest_mod_description">Joindre à la lettre de votre mod et nous l\'envoyer!</string>
+    <string name="suggest_mod_mail_description">Version requise Minecraft:\nDescription du mod:\nJoindre ici vous êtes mod et cliquez sur envoyer!</string>
+    <string name="suggest_server">Envoyer un serveur</string>
+    <string name="suggest_server_description">Joindre à la lettre de votre serveur et nous l\'envoyer!</string>
+    <string name="suggest_server_mail_description">Version requise Minecraft:\nIP:\nPort:\nDescription de votre serveur:</string>
+    <string name="suggest_skin">Envoyer une peau</string>
+    <string name="suggest_skin_description">Joindre à la lettre de votre peau et nous l\'envoyer!</string>
+    <string name="suggest_skin_mail_description">Attachez ici votre peau et cliquez sur envoyer!</string>
+    <string name="suggest_texture">Envoyer une texture</string>
+    <string name="suggest_texture_description">Joindre à la lettre de votre texture et nous l\'envoyer!</string>
+    <string name="suggest_texture_mail_description">Version requise Minecraft:\nDescription de la texture:\nAttachez ici vous êtes texture et cliquez sur envoyer!</string>
+    <string name="suggest_title">Proposez votre</string>
+    <string name="texture_dialog_blocklauncher_description">Importer texture dans Minecraft PE?</string>
+    <string name="texture_dialog_description">Texture mis à Minecraft PE.</string>
+    <string name="thank_feedback">Merci pour vos commentaires!</string>
+    <string name="version">Version</string>
+    <string name="view">Regarder</string>
+    <string name="wallpaper_not_set_description">Fonds d\'écran pas installé sur le bureau de votre appareil.</string>
+    <string name="wallpaper_not_set_title">Fond d\'écran pas fixé</string>
+    <string name="wallpaper_set_description">Fonds d\'écran installé avec succès sur le bureau de votre appareil.</string>
+    <string name="wallpaper_set_title">Wallpaper jeu</string>
+    <string name="yes">Oui</string>
+    <string name="you_may_also_like">Tu pourrais aussi aimer</string>
+</resources>

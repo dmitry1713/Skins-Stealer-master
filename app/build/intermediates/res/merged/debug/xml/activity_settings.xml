@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="preferenceScreen">
+    <PreferenceCategory
+        android:key="general"
+        android:summary="@string/settings_general_summary"
+        android:title="@string/settings_general">
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="notify_on"
+            android:summary="@string/settings_rssnotify_summary"
+            android:title="@string/settings_rssnotify"/>
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="menu_open_on_start"
+            android:summary="@string/settings_showmenu_summary"
+            android:title="@string/settings_showmenu"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="other"
+        android:summary="@string/settings_other_summary"
+        android:title="@string/settings_other">
+        <Preference
+            android:key="about"
+            android:summary="@string/settings_aboutus_summary"
+            android:title="@string/settings_aboutus"/>
+        <Preference
+            android:key="share"
+            android:summary="@string/settings_share_summary"
+            android:title="@string/settings_share"/>
+        <Preference
+            android:key="rate"
+            android:summary="@string/settings_rate_summary"
+            android:title="@string/settings_rate"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

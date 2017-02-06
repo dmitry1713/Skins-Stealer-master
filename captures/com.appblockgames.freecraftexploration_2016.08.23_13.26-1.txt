@@ -1,0 +1,62 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        13486e51 com.appblockgames.freecraftexploration/com.appscreat.project.activity.ActivityLoading filter 3191da3a
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.QUICKBOOT_POWERON:
+        2b19d6b6 com.appblockgames.freecraftexploration/com.appscreat.project.notif.BootReceiver filter e3ffd65
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.QUICKBOOT_POWERON"
+          Action: "com.htc.intent.action.QUICKBOOT_POWERON"
+      com.htc.intent.action.QUICKBOOT_POWERON:
+        2b19d6b6 com.appblockgames.freecraftexploration/com.appscreat.project.notif.BootReceiver filter e3ffd65
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.QUICKBOOT_POWERON"
+          Action: "com.htc.intent.action.QUICKBOOT_POWERON"
+      android.intent.action.BOOT_COMPLETED:
+        2b19d6b6 com.appblockgames.freecraftexploration/com.appscreat.project.notif.BootReceiver filter e3ffd65
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.QUICKBOOT_POWERON"
+          Action: "com.htc.intent.action.QUICKBOOT_POWERON"
+
+Key Set Manager:
+  [com.appblockgames.freecraftexploration]
+      Signing KeySets: 4731
+
+Packages:
+  Package [com.appblockgames.freecraftexploration] (3d930ac5):
+    userId=11141 gids=[3003, 1028, 1015]
+    pkg=Package{300fb7 com.appblockgames.freecraftexploration}
+    codePath=/data/app/com.appblockgames.freecraftexploration-2
+    resourcePath=/data/app/com.appblockgames.freecraftexploration-2
+    legacyNativeLibraryDir=/data/app/com.appblockgames.freecraftexploration-2/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=26 targetSdk=24
+    versionName=1.0.26
+    applicationInfo=ApplicationInfo{17caa324 com.appblockgames.freecraftexploration}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    dataDir=/data/data/com.appblockgames.freecraftexploration
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2016-08-23 13:26:55
+    firstInstallTime=2016-08-22 11:58:40
+    lastUpdateTime=2016-08-23 13:26:55
+    signatures=PackageSignatures{2e147128 [30d49e8d]}
+    permissionsFixed=true haveGids=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    User 0:  installed=true hidden=false stopped=false notLaunched=false enabled=0
+      enabledComponents:
+      com.appscreat.project.notif.BootReceiver
+    grantedPermissions:
+      android.permission.INTERNET
+      com.android.vending.BILLING
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.WAKE_LOCK
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.ACCESS_WIFI_STATE

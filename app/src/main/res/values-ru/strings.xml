@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- offerwall -->
+    <string name="offerwal_activity">Приложения</string>
+    <string name="offer_button_text">Бесплатно</string>
+
+    <!--in-app-->
+    <string name="remove_ads">Убрать рекламу</string>
+
+    <!-- settings -->
+    <string name="settings_general_summary">Основная информация</string>
+    <string name="settings_general">Основное</string>
+
+    <string name="settings_showmenu_summary">Да/Нет</string>
+    <string name="settings_showmenu">Показать боковое меню при включении</string>
+
+    <string name="settings_rssnotify_summary">Получить информацию о появлении новых материалов</string>
+    <string name="settings_rssnotify">Уведомления</string>
+
+    <string name="settings_other_summary">Другая информация</string>
+    <string name="settings_other">Другое</string>
+
+    <string name="settings_aboutus_summary">Информация о нашем приложении</string>
+    <string name="settings_aboutus">О приложении</string>
+    <string name="settings_aboutus_header">О приложении</string>
+    <string name="settings_aboutus_version">Версия</string>
+    <string name="settings_aboutus_thanks">Спасибо, что скачали наше приложение</string>
+
+    <string name="settings_rate_summary">Поможет другим пользователям увидеть данное приложение</string>
+    <string name="settings_rate">Оцените приложение</string>
+
+    <string name="settings_share_summary">Расскажите об этом приложении своим друзьям</string>
+    <string name="settings_share">Поделиться</string>
+
+    <!-- General -->
+    <string name="settings">Настройки</string>
+    <string name="loading">Загрузка…</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="section">Секции</string>
+    <string name="extra">Дополнительно</string>
+    <string name="share">Поделиться</string>
+    <string name="share_choise">Поделиться этим</string>
+    <string name="rate">Оценить</string>
+    <string name="back_pressed">Пожалуйста, нажмите НАЗАД, чтобы выйти</string>
+
+    <!--  webview  -->
+    <string name="back_webview">Назад</string>
+    <string name="forward_webview">Вперед</string>
+
+    <!--Dialogs-->
+    <string name="download">Скачать</string>
+    <string name="open">Открыть</string>
+    <string name="cancel">Отмена</string>
+    <string name="install">Установить</string>
+    <string name="enable">Включить</string>
+
+    <string name="skin_dialog_description">Скин устанавлен и применен в Minecraft PE. \n\nОткрыть Minecraft PE?</string>
+
+    <string name="map_dialog_description">Карта загружена и установлена в Minecraft PE.</string>
+
+    <string name="mod_dialog_description">Импортировать мод в Minecraft PE?</string>
+
+    <string name="result_mod_dialog_title">Мод успешно импортирован</string>
+    <string name="result_mod_dialog_description">Открыть Minecraft PE?</string>
+
+    <string name="blocklauncher_dialog_title">BlockLauncher не установлен</string>
+    <string name="blocklauncher_dialog_description">Чтобы установить мод, вы должны иметь на устройстве BlockLauncher.</string>
+
+    <string name="network_dialog_title">Нет подключения к интернету</string>
+    <string name="network_dialog_description">Пожалуйста, включите мобильный интернет</string>
+
+    <!--Not Translated-->
+
+    <!-- Example -->
+
+    <!-- navigation drawer -->
+
+    <!--Preference-->
+
+    <!--Package Name-->
+    <string name="download_file">Загрузка файла..</string>
+    <string name="file_saved">Файл успешно загружен</string>
+    <string name="file_saved_dialog">Файл %1$s сохранен</string>
+    <string name="texture_dialog_description">Текстура установлена в Minecraft PE.</string>
+    <string name="path">Путь %1$s</string>
+    <string name="save_to_gallery">Сохранить в галерее</string>
+    <string name="save_to_minecraft">Сохранить в Minecraft PE</string>
+    <string name="wallpaper_set_title">Обои установлены</string>
+    <string name="wallpaper_set_description">Обои успешно установлены на рабочий стол вашего устройства.</string>
+    <string name="file_not_saved">Файл не сохранен</string>
+    <string name="wallpaper_not_set_description">Обои не установлены на рабочий стол вашего устройства.</string>
+    <string name="wallpaper_not_set_title">Обои не установлены</string>
+    <string name="add">Добавить</string>
+    <string name="add_to_minecraft">Добавить в MCPE</string>
+    <string name="minecraft_file_not_found">Файлы приложения Minecraft PE не найдены</string>
+    <string name="server_dialog_description">Сервер добавлен к приложению Minecraft PE.</string>
+    <string name="activity_main">Меню</string>
+    <string name="activity_maps">Карты</string>
+    <string name="activity_mods">Моды</string>
+    <string name="activity_seeds">Сиды</string>
+    <string name="activity_servers">Сервера</string>
+    <string name="activity_skin_stealer">Вор Скинов</string>
+    <string name="activity_skins">Скины</string>
+    <string name="activity_textures">Текстуры</string>
+    <string name="activity_wallpaper">Обои</string>
+    <string name="activity_wallpaper_set">Установить Обои</string>
+    <string name="skin_not_found">Скин не найден</string>
+    <string name="excellent">Отлично!</string>
+    <string name="rate_us">Пожалуйста, оцените нас!</string>
+    <string name="rate_us_message">Мы очень ценим наших пользователей и каждый день пытаемся сделать наше приложение лучше!</string>
+    <string name="thank_feedback">Спасибо за ваш отзыв!</string>
+    <string name="rate_us_on_google">Ваше мнение очень важно для нас.\nПожалуйста, оцените наше приложение в Google Play!</string>
+    <string name="next">Следующий</string>
+    <string name="previous">Предыдущий</string>
+    <string name="view">Посмотреть</string>
+    <string name="send">Отправить</string>
+    <string name="send_files">Отправить файл</string>
+    <string name="file_description">Описание файла</string>
+    <string name="file_name">Название файла</string>
+    <string name="not_email_client">Почтовые клиенты не установлены.</string>
+    <string name="send_files_description">Добавьте в наше приложение, ваши скины, карты, моды, сервера, текстуры!\nМы опубликуем ваши файлы в нашем приложении.</string>
+    <string name="suggest_title">Предложить свое</string>
+    <string name="suggest_description">Предложите свои моды, карты, скины, текстуры, и мы опубликуем их в нашем приложении!</string>
+    <string name="suggest_mail_description">Добавьте сюда ваш мод, карту, скин или текстуру.</string>
+    <string name="suggest">Предложить</string>
+    <string name="fragment_skins_animals">Животные</string>
+    <string name="fragment_skins_anime">Аниме</string>
+    <string name="fragment_skins_celebrity">Знаменитости</string>
+    <string name="fragment_skins_boys">Мальчики</string>
+    <string name="fragment_skins_girls">Девочки</string>
+    <string name="fragment_skins_heroes">Герои</string>
+    <string name="fragment_skins_military">Военные</string>
+    <string name="fragment_skins_monsters">Монстры</string>
+    <string name="fragment_skins_other">Разные</string>
+    <string name="fragment_skins_robots">Роботы</string>
+    <string name="submenu_description_skins_boys">Выберите себе скин мальчика, который больше всего подходит Вам.</string>
+    <string name="submenu_description_skins_girls">Выберите скин девочки, который соответствует Вашему желанию.</string>
+    <string name="submenu_description_skins_heroes">Самые известные супер-герои в данной категории ждут вас!</string>
+    <string name="submenu_description_skins_animals">Попробуй себя в образе любимого животного, скачай скин который тебе нравится.</string>
+    <string name="submenu_description_skins_military">Если вы любите сражения, тогда данная категория для вас!</string>
+    <string name="submenu_description_skins_monsters">Соревнуйтесь с друзьями у кого страшнее скин с помощью данной категории.</string>
+    <string name="submenu_description_skins_anime">Станьте любым героем аниме прямо сейчас!</string>
+    <string name="submenu_description_skins_robots">Железный человек или Трансформер? Выбери Сам!</string>
+    <string name="submenu_description_skins_celebrities">Будь самым знаменитых на сервере! Установи скин известного человека!</string>
+    <string name="submenu_description_skins_other">Подборка самых разных скинов.</string>
+    <string name="activity_favorite">Избранное</string>
+    <string name="add_to_favorite">Добавить в избранное</string>
+    <string name="added_to_favorite">Добавлено в избранное</string>
+    <string name="remove_from_favorite">Удалено из избранного</string>
+    <string name="server_address">Адрес:</string>
+    <string name="server_port">Порт:</string>
+    <string name="server_version">Версия:</string>
+    <string name="suggest_map">Отправить карту</string>
+    <string name="suggest_map_description">Прикрепите к письму свою карту и отправьте ее нам!</string>
+    <string name="suggest_mod">Отправить мод</string>
+    <string name="suggest_mod_description">Прикрепите к письму свой мод и отправьте его нам!</string>
+    <string name="suggest_server">Отправить сервер</string>
+    <string name="suggest_server_description">Прикрепите к письму свой сервер и отправьте его нам!</string>
+    <string name="suggest_skin">Отправить скин</string>
+    <string name="suggest_skin_description">Прикрепите к письму свой скин и отправьте его нам!</string>
+    <string name="suggest_texture">Отправить текстуру</string>
+    <string name="suggest_texture_description">Прикрепите к письму свою тектуру и отправьте ее нам!</string>
+    <string name="suggest_map_mail_description">Необходимая версия Майнкрафта: \nОписание карты: \nПрикрепите сюда свою карту и нажмите отправить!</string>
+    <string name="suggest_mod_mail_description">Необходимая версия Майнкрафта: \nОписание мода: \nПрикрепите сюда свой мод и нажмите отправить!</string>
+    <string name="suggest_server_mail_description">Необходимая версия Майнкрафта: \nIP: \nПорт: \nОписание вашего сервера:</string>
+    <string name="suggest_skin_mail_description">Прикрепите сюда свой скин и нажмите отправить!</string>
+    <string name="suggest_texture_mail_description">Необходимая версия Майнкрафта: \nОписание текстуры: \nПрикрепите сюда свою текстуру и нажмите отправить!</string>
+    <string name="favorite_is_empty">Избранное пусто</string>
+    <string name="save">Сохранить</string>
+    <string name="set_as_wallpaper">Установить обои</string>
+    <string name="you_may_also_like">Вам также может понравиться</string>
+    <string name="intro_welcome">Добро пожаловать в MCPE Лаунчер</string>
+    <string name="intro_welcome_description">В нашем приложении Вы найдете много интересных вещей для Майнкрафта</string>
+    <string name="intro_skins_description">Тысячи скинов для девочек и мальчиков на любой вкус и цвет</string>
+    <string name="intro_servers_description">Лучшие и новые сервера для игры с друзьями которые всегда онлайн</string>
+    <string name="intro_mods_description">Мы собрали для Вас самые интересные и популярные моды</string>
+    <string name="intro_maps_description">Сотни больших и красивых карт для выживания, приключений и мини игр\n</string>
+    <string name="error">Ошибка</string>
+    <string name="error_download_description">Во время загрузки произошла неожиданная ошибка</string>
+    <string name="import_string">Импортировать</string>
+    <string name="minecraft_not_installed_description">Чтобы использовать эту программу, вы должны иметь на устройстве Minecraft PE.</string>
+    <string name="minecraft_not_installed_title">Minecraft PE не установлен</string>
+    <string name="open_minecraft">Открыть MCPE</string>
+    <string name="skin_saved_to_gallery">Скин сохранен в галерее</string>
+    <string name="see_all">Смотреть все</string>
+    <string name="seed_dialog_description">Сид загружен и установлена в Minecraft PE.</string>
+    <string name="choose_file">Выберите файл</string>
+    <string name="enter_data_on_server">Введите данные о сервере</string>
+    <string name="empty_directory">Пустой каталог</string>
+    <string name="error_blank_field">Поле не может быть пустым.</string>
+    <string name="error_selecting_file">Ошибка при выборе файла</string>
+    <string name="file_selected">Выбранный файл:</string>
+    <string name="internal_storage">Внутреннее хранилище</string>
+    <string name="no_file_chosen">Файл не выбран</string>
+    <string name="required_version_mcpe">Требуемая версия Minecraft</string>
+    <string name="select_file">Выберите файл</string>
+    <string name="select_skin_file">Выберите файл скина</string>
+    <string name="sending">Отправка</string>
+    <string name="server_name">Название</string>
+    <string name="social">Социальное</string>
+    <string name="storage_removed">Накопитель был удален или демонтирован.</string>
+    <string name="like_app">Вам нравится %1$s ?</string>
+    <string name="skin_not_installed">Скин не установлен в Minecraft PE.</string>
+    <string name="open_skin">Открыть скин</string>
+    <string name="activity_skins_viewer">Просмотр Скина</string>
+    <string name="sort_by_version">Сортировать по версии</string>
+    <string name="version">Версия</string>
+    <string name="blocklauncher_texture_dialog_description">Чтобы установить текстуру, вы должны иметь на устройстве BlockLauncher.</string>
+    <string name="texture_dialog_blocklauncher_description">Импортировать текстуру в Minecraft PE?</string>
+    <string name="mod_dialog_description_success">Мод успешно импортирован в Minecraft PE.</string>
+    <string name="description">Описание</string>
+    <string name="all_version">Все версии</string>
+    <string name="permission_denied">Доступ запрещен</string>
+    <string name="save_skin">Сохранить скин</string>
+
+</resources>

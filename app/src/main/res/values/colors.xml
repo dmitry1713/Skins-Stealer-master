@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android -->
+    <color name="myDrawerBackground">#f2f2f2</color>
+    <color name="myWindowBackground">#DEDEDE</color>
+    <color name="myTextPrimaryColor">#000000</color>
+    <color name="myNavigationColor">#000000</color>
+
+    <!-- Regular colors -->
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="dark_gray">#7e7e7e</color>
+    <color name="gray">#A9A9A9</color>
+    <color name="dim_gray">#696969</color>
+    <color name="light_gray">#BDBDBD</color>
+    <color name="extra_light_gray">#ffdbdbdb</color>
+    <color name="light_blue">#52c4ed</color>
+
+    <!--floating action button color-->
+    <color name="colorNormal">#52c4ed</color>
+    <color name="colorPressed">#71d1f4</color>
+    <color name="colorRipple">#2d96bc</color>
+
+    <color name="colorMiniNormal">#52e29f</color>
+    <color name="colorMiniPressed">#80FFC4</color>
+    <color name="colorMiniRipple">#31be7c</color>
+
+    <color name="colorFabMain">#52e29f</color>
+
+    <!--Button Color-->
+    <color name="colorButton">#4FC3F7</color>
+    <color name="mainColor">#4fc3f7</color>
+    <color name="primary_text_material_light">#debf3232</color>
+
+</resources>
